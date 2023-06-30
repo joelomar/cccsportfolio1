@@ -1,5 +1,5 @@
 # cccsportfolio1
-# Guesser
+# Guesser GAme
 This is just a simple game for a portfolio project for Codecademy Carrer Path.
 
 The game is call ‘Guesser’.
