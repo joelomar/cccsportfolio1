@@ -17,4 +17,6 @@ The player’s guess is compared with the secret number, and appropriate message
 If the player’s guess matches the secret number, a congratulatory message is displayed along with the number of attempts, and the loop is exited using break.
 After the loop ends, a closing message is displayed.
 To play the game, run the guess_number_game() function. The program will interactively prompt you to enter your guesses until you guess the correct number.
+
+Image:
 ![ghgfg](https://github.com/joelomar/cccsportfolio1/assets/7598467/f52c9760-e030-45f3-9d10-9a5da364af6f)
