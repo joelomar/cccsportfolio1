@@ -1,12 +1,12 @@
 # cccsportfolio1
 # Guesser
-#This is just a simple game for a portfolio project for Codecademy Carrer Path.
+This is just a simple game for a portfolio project for Codecademy Carrer Path.
 
-#The game is call ‘Guesser’.
+The game is call ‘Guesser’.
 
-#In this game, the player needs to guess a randomly generated number between 1 and 10.
+In this game, the player needs to guess a randomly generated number between 1 and 10.
 
-#In this game:
+In this game:
 We import the random module to generate a random number.
 The guess_number_game() function is defined to encapsulate the game logic.
 Inside the function, a random number between 1 and 10 is generated using random.randint(1, 10) and stored in secret_number.
